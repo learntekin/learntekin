@@ -44,53 +44,36 @@ Here are some of the skills I've developed over time:
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
 
-### App Development
-
-<img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java" class="pulse-badge">
-![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
-![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android)
-
-### Networking
-
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-333333?style=flat)
-![DNS](https://img.shields.io/badge/-DNS-333333?style=flat)
-![VPN](https://img.shields.io/badge/-VPN-333333?style=flat)
-![Network Security](https://img.shields.io/badge/-Network%20Security-333333?style=flat)
-
-### Artificial Intelligence
-
-![Neural Networks](https://img.shields.io/badge/-Neural%20Networks-333333?style=flat)
-![NLP](https://img.shields.io/badge/-NLP-333333?style=flat)
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-333333?style=flat)
-
-### Machine Learning
-
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-333333?style=flat)
-<img src="https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow" class="pulse-badge">
-![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
-
-### Data Science
-
-![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-333333?style=flat)
-![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-333333?style=flat)
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat)
+<!-- Replace this with the URL of your GIF -->
+![Animated Skills](URL_TO_YOUR_GIF)
 
 ## 🚀 Recent Projects
 
 Here are some of my recent projects:
 
 ### Ecommerce Website
-Short description of your Ecommerce website project.
+Designed and developed an interactive Ecommerce website using the latest front-end technologies. Explore products, add to cart, and experience seamless checkout.
 
 ### Kyuras App for Learning
-Short description of your Kyuras app for learning project.
+Built Kyuras, a cutting-edge learning app, offering a range of courses. It features intuitive user interfaces, quizzes, and progress tracking.
 
 ### KM Tool for Dashboard
-Short description of your KM tool for dashboard project.
+Developed a Knowledge Management tool with a dynamic dashboard for enhanced collaboration and knowledge sharing within teams.
 
 ### Altec Dashboard
-Short description of your Altec Dashboard project.
+Contributed to the Altec Dashboard project, creating visually appealing data visualizations for business insights and decision-making.
 
+### Finance Frenzy Solutions
+Developed solutions for Finance Frenzy, streamlining financial processes and enhancing data analysis.
+
+### LearnTekIn
+Collaborated on LearnTekIn, an educational platform, delivering quality content to learners worldwide.
+
+### Personal Portfolio
+Designed and coded my personal portfolio website, showcasing my skills, projects, and journey.
+
+Feel free to explore these projects and learn more about my work!
+
+## 🌱 Currently Learning
+
+I'm always looking to expand my knowledge. Currently, I'm diving deep into [Technology/Topic] to further enhance my skills.

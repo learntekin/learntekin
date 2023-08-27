@@ -76,4 +76,4 @@ Feel free to explore these projects and learn more about my work!
 
 ## 🌱 Currently Learning
 
-I'm always looking to expand my knowledge. Currently, I'm diving deep into [Technology/Topic] to further enhance my skills.
+I'm always looking to expand my knowledge. Currently, I'm diving deep into digital era to further enhance my skills.

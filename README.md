@@ -6,12 +6,12 @@ I'm Rajeshwaran SLV, a passionate developer from Panruti. Welcome to my GitHub p
 
 I specialize in a variety of technical areas and have a strong interest in:
 
-- Web Development ![Web Development](https://img.shields.io/badge/-🌐%20Web%20Development-333333)
-- App Development ![App Development](https://img.shields.io/badge/-📱%20App%20Development-333333)
-- Networking ![Networking](https://img.shields.io/badge/-🌐%20Networking-333333)
-- Artificial Intelligence ![AI](https://img.shields.io/badge/-🤖%20Artificial%20Intelligence-333333)
-- Machine Learning ![ML](https://img.shields.io/badge/-🧠%20Machine%20Learning-333333)
-- Data Science ![Data Science](https://img.shields.io/badge/-📊%20Data%20Science-333333)
+- ![Web Development](https://img.shields.io/badge/-🌐%20Web%20Development-333333)
+- ![App Development](https://img.shields.io/badge/-📱%20App%20Development-333333)
+- ![Networking](https://img.shields.io/badge/-🌐%20Networking-333333)
+- ![AI](https://img.shields.io/badge/-🤖%20Artificial%20Intelligence-333333)
+- ![ML](https://img.shields.io/badge/-🧠%20Machine%20Learning-333333)
+- ![Data Science](https://img.shields.io/badge/-📊%20Data%20Science-333333)
 
 <style>
   @keyframes pulse {

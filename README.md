@@ -26,8 +26,7 @@ Here are some of the skills I've developed over time:
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
 
-<!-- Replace this with the URL of your GIF -->
-![Animated Skills](URL_TO_YOUR_GIF)
+
 
 ## 🚀 Recent Projects
 

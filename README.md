@@ -13,24 +13,6 @@ I specialize in a variety of technical areas and have a strong interest in:
 - ![ML](https://img.shields.io/badge/-🧠%20Machine%20Learning-333333)
 - ![Data Science](https://img.shields.io/badge/-📊%20Data%20Science-333333)
 
-<style>
-  @keyframes pulse {
-    0% {
-      transform: scale(1);
-    }
-    50% {
-      transform: scale(1.1);
-    }
-    100% {
-      transform: scale(1);
-    }
-  }
-
-  .pulse-badge {
-    animation: pulse 2s infinite;
-  }
-</style>
-
 ## 🛠️ Skills
 
 Here are some of the skills I've developed over time:

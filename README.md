@@ -12,7 +12,7 @@ I specialize in a variety of technical areas and have a strong interest in:
 
 Here are some of the skills I've developed over time:
 
-### Web Development
+### Full Stack Web Development
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3" class="pulse-badge">
@@ -20,6 +20,46 @@ Here are some of the skills I've developed over time:
 <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" class="pulse-badge">
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
+
+## 🛠️ My Favorite Tools
+
+Here are some of my favorite tools:
+
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma) ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code)
+
+## 🌐 Browsers
+
+My projects are compatible with a range of web browsers including:
+
+![Safari](https://img.shields.io/badge/Safari-333333?style=flat&logo=safari)
+![Brave](https://img.shields.io/badge/Brave-333333?style=flat&logo=brave)
+![Ulaa](https://img.shields.io/badge/Ulaa-333333?style=flat&logo=ulaa)
+![Chrome](https://img.shields.io/badge/Chrome-333333?style=flat&logo=google-chrome)
+![Edge](https://img.shields.io/badge/Edge-333333?style=flat&logo=microsoft-edge)
+![Firefox](https://img.shields.io/badge/Firefox-333333?style=flat&logo=firefox)
+
+## 🎨 UI Design Tools
+
+I use various UI design tools in my projects, including:
+
+![Ag-Grid](https://img.shields.io/badge/-Ag%20Grid-333333?style=flat&logo=ag-grid)
+![Material-UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=material-ui)
+![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-333333?style=flat&logo=chakra-ui)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-333333?style=flat&logo=ant-design)
+
+
+## 💾 Databases and APIs
+
+I work with a variety of databases and APIs, including:
+
+![MySQL](https://img.shields.io/badge-MySQL-333333?style=flat&logo=mysql)
+![phpMyAdmin](https://img.shields.io/badge-phpMyAdmin-333333?style=flat&logo=phpmyadmin)
+![MongoDB](https://img.shields.io/badge-MongoDB-333333?style=flat&logo=mongodb)
+![Neo4j](https://img.shields.io/badge-Neo4j-333333?style=flat&logo=neo4j)
+![Firebase](https://img.shields.io/badge-Firebase-333333?style=flat&logo=firebase)
+![MongoDB Atlas](https://img.shields.io/badge-MongoDB%20Atlas-333333?style=flat&logo=mongodb)
+![Swagger](https://img.shields.io/badge-Swagger-333333?style=flat&logo=swagger)
+
 
 ## 🚀 Recent Projects
 
@@ -58,22 +98,6 @@ I love coding, and my coding time reflects it:
 
 [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D18290%26project%3D%26in%3D0)](https://codetime.dev)
 
-## 🛠️ My Favorite Tools
-
-Here are some of my favorite tools:
-
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma) ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code)
-
-## 🌐 Browsers
-
-My projects are compatible with a range of web browsers including:
-
-![Safari](https://img.shields.io/badge/Safari-333333?style=flat&logo=safari)
-![Brave](https://img.shields.io/badge/Brave-333333?style=flat&logo=brave)
-![Ulaa](https://img.shields.io/badge/Ulaa-333333?style=flat&logo=ulaa)
-![Chrome](https://img.shields.io/badge/Chrome-333333?style=flat&logo=google-chrome)
-![Edge](https://img.shields.io/badge/Edge-333333?style=flat&logo=microsoft-edge)
-![Firefox](https://img.shields.io/badge/Firefox-333333?style=flat&logo=firefox)
 
 ## 📫 Let's Connect
 

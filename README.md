@@ -6,12 +6,7 @@ I'm Rajeshwaran SLV, a passionate developer from Panruti. Welcome to my GitHub p
 
 I specialize in a variety of technical areas and have a strong interest in:
 
-- ![Web Development](https://img.shields.io/badge/-🌐%20Web%20Development-333333)
-- ![App Development](https://img.shields.io/badge/-📱%20App%20Development-333333)
-- ![Networking](https://img.shields.io/badge/-🌐%20Networking-333333)
-- ![AI](https://img.shields.io/badge/-🤖%20Artificial%20Intelligence-333333)
-- ![ML](https://img.shields.io/badge/-🧠%20Machine%20Learning-333333)
-- ![Data Science](https://img.shields.io/badge/-📊%20Data%20Science-333333)
+![Web Development](https://img.shields.io/badge/-🌐%20Web%20Development-333333) ![App Development](https://img.shields.io/badge/-📱%20App%20Development-333333) ![Networking](https://img.shields.io/badge/-🌐%20Networking-333333) ![AI](https://img.shields.io/badge/-🤖%20Artificial%20Intelligence-333333) ![ML](https://img.shields.io/badge/-🧠%20Machine%20Learning-333333)  ![Data Science](https://img.shields.io/badge/-📊%20Data%20Science-333333)
 
 ## 🛠️ Skills
 
@@ -56,6 +51,12 @@ Feel free to explore these projects and learn more about my work!
 ## 🌱 Currently Learning
 
 I'm always looking to expand my knowledge. Currently, I'm diving deep into digital era to further enhance my skills.
+
+## ⌚ Code Time
+
+I love coding, and my coding time reflects it:
+
+[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D18290%26project%3D%26in%3D0)](https://codetime.dev)
 
 ## 📫 Let's Connect
 

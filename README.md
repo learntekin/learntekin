@@ -52,13 +52,12 @@ I use various UI design tools in my projects, including:
 
 I work with a variety of databases and APIs, including:
 
-![MySQL](https://img.shields.io/badge-MySQL-333333?style=flat&logo=mysql)
-![phpMyAdmin](https://img.shields.io/badge-phpMyAdmin-333333?style=flat&logo=phpmyadmin)
-![MongoDB](https://img.shields.io/badge-MongoDB-333333?style=flat&logo=mongodb)
-![Neo4j](https://img.shields.io/badge-Neo4j-333333?style=flat&logo=neo4j)
-![Firebase](https://img.shields.io/badge-Firebase-333333?style=flat&logo=firebase)
-![MongoDB Atlas](https://img.shields.io/badge-MongoDB%20Atlas-333333?style=flat&logo=mongodb)
-![Swagger](https://img.shields.io/badge-Swagger-333333?style=flat&logo=swagger)
+- MyPhp admin
+- Swagger API
+- MongoDB Data API
+- MySql Sever
+- MongoDB Atlas
+- Firebase Database
 
 
 ## 🚀 Recent Projects

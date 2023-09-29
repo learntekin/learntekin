@@ -50,13 +50,30 @@ Feel free to explore these projects and learn more about my work!
 
 ## 🌱 Currently Learning
 
-I'm always looking to expand my knowledge. Currently, I'm diving deep into digital era to further enhance my skills.
+I'm always looking to expand my knowledge. Currently, I'm diving deep into the digital era to further enhance my skills.
 
 ## ⌚ Code Time
 
 I love coding, and my coding time reflects it:
 
 [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D18290%26project%3D%26in%3D0)](https://codetime.dev)
+
+## 🛠️ My Favorite Tools
+
+Here are some of my favorite tools:
+
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma) ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code)
+
+## 🌐 Browsers
+
+My projects are compatible with a range of web browsers including:
+
+![Safari](https://img.shields.io/badge/Safari-333333?style=flat&logo=safari)
+![Brave](https://img.shields.io/badge/Brave-333333?style=flat&logo=brave)
+![Ulaa](https://img.shields.io/badge/Ulaa-333333?style=flat&logo=ulaa)
+![Chrome](https://img.shields.io/badge/Chrome-333333?style=flat&logo=google-chrome)
+![Edge](https://img.shields.io/badge/Edge-333333?style=flat&logo=microsoft-edge)
+![Firefox](https://img.shields.io/badge/Firefox-333333?style=flat&logo=firefox)
 
 ## 📫 Let's Connect
 

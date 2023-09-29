@@ -26,8 +26,6 @@ Here are some of the skills I've developed over time:
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
 
-
-
 ## 🚀 Recent Projects
 
 Here are some of my recent projects:
@@ -59,6 +57,10 @@ Feel free to explore these projects and learn more about my work!
 
 I'm always looking to expand my knowledge. Currently, I'm diving deep into digital era to further enhance my skills.
 
+## 📫 Let's Connect
 
+You can find me on these platforms:
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeshwaranslv007/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rajeshwaranslv)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_tony_stark_7_18/)
